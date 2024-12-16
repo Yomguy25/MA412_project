@@ -1,0 +1,6 @@
+pandas
+nltk
+joblib
+scikit-learn
+re
+os
