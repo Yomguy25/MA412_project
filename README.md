@@ -14,7 +14,6 @@ The project is organized as follows:
 
 ```
 .
-├── models/                     # Models save folder
 ├── data/                       # Directory containing datasets
 ├── doc/                        # Documentation folder
 ├── README.md                   # Project documentation
@@ -50,7 +49,6 @@ To observe the results, simply consult the provided notebooks and scroll to the 
 - **Hybrid Notebook**: Performs its metrics tests on the `val` dataset.
 - **Model_TFIDF Notebook**: Conducts its metrics tests on the test split of the `train` dataset.
 - **Rule_Prediction.ipynb**: Executes its metrics tests directly on the `train` dataset.
-- **Evaluation.py**: This script is a directly executable Python file that tests metrics for the best-performing model from `model_tfidf.ipynb`. It imports the `model3_tfidf.pkl` file obtained in the notebook.
 
 ---
 
