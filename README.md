@@ -18,7 +18,6 @@ The project is organized as follows:
 ├── doc/                        # Documentation folder
 ├── README.md                   # Project documentation
 ├── data_processing.py          # Script containing the utils function
-├── evaluation.py               # Script to evaluate the model3's performance on val dataset
 ├── hybrid.ipynb                # Notebook for a hybrid model between rule and machine learning model approach
 ├── model_tfidf.ipynb           # Notebook implementing TF-IDF vectorization for machine learning models
 └── rule_prediction.ipynb       # Notebook for rule-based keyword predictions
