@@ -39,6 +39,7 @@ pip install -r requirements.txt
 ## Dataset
 The annotated dataset (SciX corpus) can be accessed via HuggingFace:
 https://huggingface.co/datasets/adsabs/SciX_UAT_keywords/tree/main/data
+
 ---
 
 ## Usage
@@ -56,3 +57,11 @@ The system is evaluated on the test set using multi-label classification metrics
 - **Precision**
 - **Hamming loss**
 - **F1-Score**
+
+---
+
+## Report
+The final report can be accessed via this link:
+https://github.com/Yomguy25/MA412_project/blob/main/doc/Project_Report_MA412_GF.pdf
+
+---
